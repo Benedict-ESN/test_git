@@ -1,4 +1,3 @@
-theme: jekyll-theme-dinky
 # Привет, я Benedict-ESN! 👋
 
 ![Моя фотография](img/av-5.gif)
